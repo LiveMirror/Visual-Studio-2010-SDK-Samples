@@ -1,0 +1,48 @@
+﻿midl : command line warning MIDL1015: /W0 or /no_warn overrides warning-level switch
+  Processing .\MenuAndCommands.idl
+  MenuAndCommands.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\objidl.idl
+  objidl.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\basetsd.h
+  basetsd.h
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\guiddef.h
+  guiddef.h
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\servprov.idl
+  servprov.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\msxml.idl
+  msxml.idl
+  Processing C:\Program Files\Microsoft Visual Studio 2010 Beta2 SDK\VisualStudioIntegration\common\idl\vsshell.idl
+  vsshell.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\docobj.idl
+  docobj.idl
+  Processing C:\Program Files\Microsoft Visual Studio 2010 Beta2 SDK\VisualStudioIntegration\common\idl\designer.idl
+  designer.idl
+  Processing C:\Program Files\Microsoft Visual Studio 2010 Beta2 SDK\VisualStudioIntegration\common\idl\textmgr.idl
+  textmgr.idl
+  Processing C:\Program Files\Microsoft Visual Studio 2010 Beta2 SDK\VisualStudioIntegration\common\idl\context.idl
+  context.idl
+  Processing C:\Program Files\Microsoft Visual Studio 2010 Beta2 SDK\VisualStudioIntegration\common\idl\oleipc.idl
+  oleipc.idl
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\ocidl.acf
+  ocidl.acf
+  StdAfx.cpp
+  Guids.cpp
+  MenuAndCommandsPackage.cpp
+  Module.cpp
+  Generating Code...
+     Creating library Debug\MenuAndCommands.lib and object Debug\MenuAndCommands.exp
+  MenuAndCommands.vcxproj -> C:\Users\suztho\Documents\CPP\Take2\MenuAndCommands\MenuAndCommands\Debug\MenuAndCommands.dll
